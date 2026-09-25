@@ -48,7 +48,9 @@ The Power BI dashboard provides insights into:
 
 ### Dashboard Preview
 
-![Customer Churn Dashboard](Screenshots/dashboard.png)
+![Customer Churn Dashboard](Screenshots/Dashboard.png)
+
+![Tooltip Details](Screenshots/tooltip_customer_churn_details.png)
 
 ## 🗄️ SQL Analysis
 
